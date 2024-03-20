@@ -1,0 +1,32 @@
+/home/tom/Uni Resources/SIT109 - Introduction to programming/Week 2/P3/bin/Debug/net8.0/P3
+/home/tom/Uni Resources/SIT109 - Introduction to programming/Week 2/P3/bin/Debug/net8.0/P3.deps.json
+/home/tom/Uni Resources/SIT109 - Introduction to programming/Week 2/P3/bin/Debug/net8.0/P3.runtimeconfig.json
+/home/tom/Uni Resources/SIT109 - Introduction to programming/Week 2/P3/bin/Debug/net8.0/P3.dll
+/home/tom/Uni Resources/SIT109 - Introduction to programming/Week 2/P3/bin/Debug/net8.0/P3.pdb
+/home/tom/Uni Resources/SIT109 - Introduction to programming/Week 2/P3/obj/Debug/net8.0/P3.GeneratedMSBuildEditorConfig.editorconfig
+/home/tom/Uni Resources/SIT109 - Introduction to programming/Week 2/P3/obj/Debug/net8.0/P3.AssemblyInfoInputs.cache
+/home/tom/Uni Resources/SIT109 - Introduction to programming/Week 2/P3/obj/Debug/net8.0/P3.AssemblyInfo.cs
+/home/tom/Uni Resources/SIT109 - Introduction to programming/Week 2/P3/obj/Debug/net8.0/P3.csproj.CoreCompileInputs.cache
+/home/tom/Uni Resources/SIT109 - Introduction to programming/Week 2/P3/obj/Debug/net8.0/P3.dll
+/home/tom/Uni Resources/SIT109 - Introduction to programming/Week 2/P3/obj/Debug/net8.0/refint/P3.dll
+/home/tom/Uni Resources/SIT109 - Introduction to programming/Week 2/P3/obj/Debug/net8.0/P3.pdb
+/home/tom/Uni Resources/SIT109 - Introduction to programming/Week 2/P3/obj/Debug/net8.0/P3.genruntimeconfig.cache
+/home/tom/Uni Resources/SIT109 - Introduction to programming/Week 2/P3/obj/Debug/net8.0/ref/P3.dll
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\bin\Debug\net8.0\P3.exe
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\bin\Debug\net8.0\P3.deps.json
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\bin\Debug\net8.0\P3.runtimeconfig.json
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\bin\Debug\net8.0\P3.dll
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\bin\Debug\net8.0\P3.pdb
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\obj\Debug\net8.0\P3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\obj\Debug\net8.0\P3.AssemblyInfoInputs.cache
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\obj\Debug\net8.0\P3.AssemblyInfo.cs
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\obj\Debug\net8.0\P3.csproj.CoreCompileInputs.cache
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\obj\Debug\net8.0\P3.dll
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\obj\Debug\net8.0\refint\P3.dll
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\obj\Debug\net8.0\P3.pdb
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\obj\Debug\net8.0\P3.genruntimeconfig.cache
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\obj\Debug\net8.0\ref\P3.dll
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\obj\Debug\net8.0\P3.csproj.AssemblyReference.cache
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\P3\obj\Debug\net8.0\P3.csproj.Up2Date

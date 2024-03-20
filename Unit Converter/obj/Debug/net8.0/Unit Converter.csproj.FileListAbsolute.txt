@@ -1,0 +1,14 @@
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Unit Converter\bin\Debug\net8.0\Unit Converter.exe
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Unit Converter\bin\Debug\net8.0\Unit Converter.deps.json
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Unit Converter\bin\Debug\net8.0\Unit Converter.runtimeconfig.json
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Unit Converter\bin\Debug\net8.0\Unit Converter.dll
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Unit Converter\bin\Debug\net8.0\Unit Converter.pdb
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Unit Converter\obj\Debug\net8.0\Unit Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Unit Converter\obj\Debug\net8.0\Unit Converter.AssemblyInfoInputs.cache
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Unit Converter\obj\Debug\net8.0\Unit Converter.AssemblyInfo.cs
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Unit Converter\obj\Debug\net8.0\Unit Converter.csproj.CoreCompileInputs.cache
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Unit Converter\obj\Debug\net8.0\Unit Converter.dll
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Unit Converter\obj\Debug\net8.0\refint\Unit Converter.dll
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Unit Converter\obj\Debug\net8.0\Unit Converter.pdb
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Unit Converter\obj\Debug\net8.0\Unit Converter.genruntimeconfig.cache
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Unit Converter\obj\Debug\net8.0\ref\Unit Converter.dll

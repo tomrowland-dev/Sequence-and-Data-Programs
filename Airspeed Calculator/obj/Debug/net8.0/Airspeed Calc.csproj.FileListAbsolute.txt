@@ -1,0 +1,14 @@
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Airspeed Calc\bin\Debug\net8.0\Airspeed Calc.exe
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Airspeed Calc\bin\Debug\net8.0\Airspeed Calc.deps.json
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Airspeed Calc\bin\Debug\net8.0\Airspeed Calc.runtimeconfig.json
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Airspeed Calc\bin\Debug\net8.0\Airspeed Calc.dll
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Airspeed Calc\bin\Debug\net8.0\Airspeed Calc.pdb
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Airspeed Calc\obj\Debug\net8.0\Airspeed Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Airspeed Calc\obj\Debug\net8.0\Airspeed Calc.AssemblyInfoInputs.cache
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Airspeed Calc\obj\Debug\net8.0\Airspeed Calc.AssemblyInfo.cs
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Airspeed Calc\obj\Debug\net8.0\Airspeed Calc.csproj.CoreCompileInputs.cache
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Airspeed Calc\obj\Debug\net8.0\Airspeed Calc.dll
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Airspeed Calc\obj\Debug\net8.0\refint\Airspeed Calc.dll
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Airspeed Calc\obj\Debug\net8.0\Airspeed Calc.pdb
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Airspeed Calc\obj\Debug\net8.0\Airspeed Calc.genruntimeconfig.cache
+C:\Users\Tom Rowland\Desktop\Uni Resources\SIT109 - Introduction to programming\Week 2\Airspeed Calc\obj\Debug\net8.0\ref\Airspeed Calc.dll

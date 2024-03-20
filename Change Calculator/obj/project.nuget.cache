@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "loui2kxh603IGeettTpwoa3zlbDqqn4uRAqXXwUTDHBBD3ftKAmFzDarBAUeLKEmfTKl3U/IGGLQcDSzjoVYLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tom Rowland\\Desktop\\Uni Resources\\SIT109 - Introduction to programming\\Week 2\\P3\\P3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tom Rowland\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
